@@ -1,0 +1,7 @@
+# ninja log v5
+1	1798	1693821717778910128	CMakeFiles/priorityqueue.dir/main.cpp.o	1794035372a1ad0
+1801	3029	1693821719014917218	CMakeFiles/priorityqueue.dir/PriorityQueue.cpp.o	2b85c4ba21c829c5
+3029	3398	1693821719378919305	priorityqueue	b70d41dccfe1f350
+2	1231	1693822106161035410	CMakeFiles/priorityqueue.dir/main.cpp.o	1794035372a1ad0
+1232	2489	1693822107421042045	CMakeFiles/priorityqueue.dir/PriorityQueue.cpp.o	2b85c4ba21c829c5
+2490	2802	1693822107729043667	priorityqueue	b70d41dccfe1f350
